@@ -1,0 +1,20 @@
+ID of the edge to be made oneway: 24531446#0
+Traffic flow difference: 0.0008799497171590194
+Traffic flow direction: positive
+
+ID of the edge to be made oneway: 174648974#3
+Traffic flow difference: 0.000502828409805154
+Traffic flow direction: positive
+
+ID of the edge to be made oneway: 28109868#2
+Traffic flow difference: 0.000502828409805154
+Traffic flow direction: positive
+
+ID of the edge to be made oneway: 179129155#1
+Traffic flow difference: 0.0003771213073538655
+Traffic flow direction: negative
+
+ID of the edge to be made oneway: 38754835#7
+Traffic flow difference: 0.0003771213073538655
+Traffic flow direction: positive
+
